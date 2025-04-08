@@ -248,9 +248,6 @@ Include screenshots or GIFs to showcase the application functionality.
 &nbsp;
 ![Forgot Password](./screenshots/forgot-password3.png)
 
-### `Home Page`
-![Home](./screenshots/home.png)
-
 ### `Profile`
 ![Profile](./screenshots/profile.png)
 
